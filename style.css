@@ -2,6 +2,10 @@
     margin: 0;
     padding: 0;
 }
+.cabecalho-imagem{
+    width: 20%;
+}
+
 .cabecalho {
     background-color: #424E61;
     color: white;
