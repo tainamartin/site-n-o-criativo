@@ -22,11 +22,11 @@
     font-size: 20px;
 }
 
-.escola-imagem{
+.sobre-imagem{
     width: 25%;
 }
 
-.escola{
+.sobre{
     background-image: linear-gradient(#1c626b,#36f1e8);
     color:white;
     display: flex;
@@ -35,9 +35,9 @@
     padding: 24px 0;
 }
 
-.escola-div-conteudo{
+.-sobre-div-conteudo{
     width: 35%;
 }
-.escola-titulo{
+.sobre-titulo{
     padding: 24px 0;
 }
