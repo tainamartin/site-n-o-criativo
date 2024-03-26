@@ -23,12 +23,12 @@
 }
 
 .sobre-imagem{
-    width: 15%;
+    width: 20%;
 }
 
 .sobre{
     background-image: linear-gradient(#1c626b,#36f1e8);
-    color:rgb(21, 19, 36);
+    color:rgb(250, 250, 250);
     display: flex;
     justify-content: center;
     align-items: center;
