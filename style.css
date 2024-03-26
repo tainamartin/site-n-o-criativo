@@ -28,7 +28,7 @@
 
 .sobre{
     background-image: linear-gradient(#1c626b,#36f1e8);
-    color:white;
+    color:rgb(21, 19, 36);
     display: flex;
     justify-content: center;
     align-items: center;
