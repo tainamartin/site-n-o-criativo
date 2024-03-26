@@ -9,7 +9,7 @@
     display: flex;
     justify-content: space-around;
     align-items: center;
-    padding: 25px 0;
+    padding: 24px 0;
 }
 
 .cabecalho-imagem{
@@ -18,7 +18,7 @@
 
 .cabecalho-lista-item{
     display: inline-block;
-    margin: 0 20px;
+    margin: 0 16px;
     font-size: 20px;
 }
 
@@ -39,7 +39,7 @@
     width: 35%;
 }
 .sobre-titulo{
-    padding: 15px 0;
+    padding: 24px 0;
 }
 body {
   font-family: "Caveat", cursive;
