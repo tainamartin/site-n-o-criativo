@@ -4,7 +4,7 @@
 }
 
 .cabecalho {
-    background-color: #1c626b;
+    background-color: #181068;
     color: white;
     display: flex;
     justify-content: space-around;
@@ -23,11 +23,11 @@
 }
 
 .sobre-imagem{
-    width: 35%;
+    width: 25%;
 }
 
 .sobre{
-    background-image: linear-gradient(#1c626b,#36f1e8);
+    background-image: linear-gradient(#181618,#5236f1);
     color:rgb(250, 250, 250);
     display: flex;
     justify-content: center;
